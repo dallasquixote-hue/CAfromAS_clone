@@ -1,0 +1,1 @@
+This is a readme from me to test adding a file and doing a commit/push/pull/merge with a new repo I just cloned from Agata.
